@@ -40,6 +40,9 @@
 - Expand the dataset for higher accuracy.
 - Add more emotion classes (e.g., Angry, Neutral).
 - Enhance the UI with additional features like emotion score or batch processing.
+## Example 
+<img width="941" alt="image" src="https://github.com/user-attachments/assets/67369f73-cd4a-416e-9fea-4ae1a6c7d917">
+
 
 # 🏁 Conclusion
 - The Emotion Detector App is a step forward in leveraging deep learning for emotion recognition. It demonstrates how Convolutional Neural Networks can be applied to solve real-world problems, making technology more human-centric. With its simple yet effective interface, the app bridges the gap between artificial intelligence and emotional intelligence. This project opens the door for further exploration into multi-class emotion detection and other applications of AI in understanding human expressions.
