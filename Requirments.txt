@@ -1,5 +1,7 @@
-numpy
+
 tensorflow
+numpy
+opencv-python
 matplotlib
+Pillow
 streamlit
-cv2
